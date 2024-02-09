@@ -1,14 +1,11 @@
 # About Me
-
-1. I'm a web developer from Japan
-
-2. You can find my Zenn Blog [here](https://zenn.dev/na0kia)
+1. Zenn Blog [here](https://zenn.dev/na0kia)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=na0kiA&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,ruby,aws," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,ruby," /> <br /><br />
 
 ## Frameworks and Library
 
@@ -16,4 +13,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,aws,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,aws,figma" /> <br /><br />
