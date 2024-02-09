@@ -1,16 +1,19 @@
-### Hi there 👋
+# About Me
 
-<!--
-**na0kiA/na0kiA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a web developer from Japan
 
-Here are some ideas to get you started:
+2. You can find my Zenn Blog [here](https://zenn.dev/na0kia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=na0kiA&show_icons=true&locale=en&layout=compact)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,ruby,aws," /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=rails" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,aws,figma,nginx" /> <br /><br />
