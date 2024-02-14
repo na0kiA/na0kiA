@@ -1,4 +1,4 @@
-# Howdy?
+# Hi!!
 1. Zenn Blog [here](https://zenn.dev/na0kia)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=na0kiA&show_icons=true&locale=en&layout=compact)
