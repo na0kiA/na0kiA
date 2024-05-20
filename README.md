@@ -4,11 +4,11 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,ruby," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,react,ruby," /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=rails,jest,jquery,tailwind" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rails, nextjs, jest, tailwind" /> <br /><br />
 
 ## DB and Dev Tools etc
 
