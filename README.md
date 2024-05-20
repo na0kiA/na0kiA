@@ -8,7 +8,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=rails, nextjs, jest, tailwind" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rails,nextjs,jest,tailwind" /> <br /><br />
 
 ## DB and Dev Tools etc
 
